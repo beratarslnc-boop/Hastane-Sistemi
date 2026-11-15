@@ -1,0 +1,57 @@
+Mehmet,Özalan,111,Kardiyoloji,Prof. Dr.
+Canan,Kayık,222,Kardiyoloji,Prof. Dr.
+Ali,Veren,333,Kardiyoloji,Uzm. Dr.
+Ela,Altuğ,444,Kardiyoloji,Asist. Dr.
+Leyla,Turgut,555,Dahiliye,Uzm. Dr.
+Simge,Birdin,666,Dahiliye,Op. Dr.
+Berat,Parlak,777,Dahiliye,Uzm. Dr.
+Fehim,Kaynak,888,Göz Hastalıkları,Prof. Dr.
+Gözde,Arslanca,999,Göz Hastalıkları,Uzm. Dr.
+Fatma,Arslanca,101,Cilt Hastalıkları,Prof. Dr.
+Ahmet,Gündüz,121,Cilt Hastalıkları,Uzm. Dr.
+Necmi,İplik,131,Cilt Hastalıkları,Uzm. Dr.
+Ahmet,Metedağ,141,Fizik Tedavi,Prof. Dr.
+Ayşe,Arslanca,151,Fizik Tedavi,Uzm. Dr.
+Burak,Yılmaz,161,Fizik Tedavi,Dr.
+Kamile,Sağlak,171,Göğüs Hastalıkları,Prof. Dr.
+Aziz,Güneli,181,Göğüs Hastalıkları,Prof. Dr.
+Selin,Kitapçı,191,Göğüs Hastalıkları,Uzm. Dr.
+Ali,Yaşar,202,Nöroloji,Prof. Dr.
+Mahmut,Osman,212,Nöroloji,Prof. Dr.
+Aleyna,Kızılay,232,Nöroloji,Uzm. Dr.
+Rahmi,Beyaz,242,Radyoloji,Uzm. Dr.
+Emel,Karınca,252,Radyoloji,Dr.
+Cenk,Çelen,262,Radyoloji,Prof. Dr.
+Azra,Sever,272,Enfeksiyon,Prof. Dr.
+Mustafa,Turan,282,Enfeksiyon,Prof. Dr.
+İlayda,Coşkun,292,Nükleer Tıp,Prof. Dr.
+Beyza,Kaylavaz,303,Nükleer Tıp,Uzm. Dr.
+Ezgi,Aktaş,313,Hematoloji,Uzm. Dr.
+Damla,Yolcu,323,Hematoloji,Prof. Dr.
+Şeyma,Sönmez,333,Endokrinoloji,Uzm. Dr.
+Ayşe,Bilgin,343,Endokrinoloji,Prof. Dr.
+Aydın,Arslanca,353,Endokrinoloji,Uzm. Dr.
+Eren,Bulut,363,Diyabet,Uzm. Dr.
+Duygu,Yaprak,373,Diyabet,Dr.
+Burak,Ekin,383,Onkoloji,Prof. Dr.
+Hayat,Alptekin,393,Onkoloji,Dr.
+Selda,İnceoğlu,404,Onkoloji,Uzm. Dr.
+Banu,Korkmaz,414,Adli Tıp,Prof. Dr.
+İlayda,Yüksel,424,Adli Tıp,Uzm. Dr.
+Kadir,Kaya,434,Çocuk Sağlığı,Uzm. Dr.
+Enes,Kara,444,Çocuk Sağlığı,Prof. Dr.
+Nil,Acar,454,Çocuk Sağlığı,Dr.
+Barış,Bayrak,464,Çocuk Sağlığı,Dr.
+Efe,Gümüş,474,Çocuk Sağlığı,Prof. Dr.
+Zeynep,Tekçe,484,KBB,Prof. Dr.
+Bade,Şimşek,494,KBB,Uzm. Dr.
+İlyas,Tek,505,KBB,Uzm. Dr.
+Berna,Gündüz,515,Kadın Doğum,Dr.
+Tuğba,Melek,525,Kadın Doğum,Prof. Dr.
+Zeynep,Birdal,535,Kadın Doğum,Prof. Dr.
+Esra,Altun,545,Kadın Doğum,Uzm. Dr.
+Fatih,Arslan,555,Spor Hekimliği,Dr.
+Mesut,Karabulut,565,Spor Hekimliği,Dr.
+Erkan,Yavuz,575,Üroloji,Prof. Dr.
+Erol,Çalışkan,585,Üroloji,Uzm. Dr.
+Onur,Demir,595,Üroloji,Dr.
